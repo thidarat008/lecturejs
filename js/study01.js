@@ -1,9 +1,20 @@
+//data type
+//string
 console.log('ABC...')
 console.log("ABC...")
+//Number
 console.log(123456)
 console.log(115.546)
-console.log(true)
-
+//Bloolean
+console.log(true) //false
+//Array
+console.log([1,2,3,4,5,'Hello',true])
+//Oject
+console.log({fullname:'Hom',age:23})
+//Null
+console.log(null)
+//Undefined
+console.log(undefined)
 //ตัวแปร
 var a = 10 //เป็นแบบ Global
 let b = 20 //เป็นแบบ Local ใช้ได้เฉพาะใน { } หนึ่งๆ เท่านั้น ***
