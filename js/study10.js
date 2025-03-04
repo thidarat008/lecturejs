@@ -1,6 +1,7 @@
 //study10.js
 //function
 //defult parameter
+//callback ใช้บ่อย
 const zz = (a, b = 20, c = 30) => {
     console.log(a, b, c)
 }
